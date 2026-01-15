@@ -31,3 +31,6 @@
 /* Contato */
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
+
+/* Formulário */
+@import "./utilidades/formulario.css";
