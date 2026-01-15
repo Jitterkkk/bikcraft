@@ -27,3 +27,6 @@
 /* Bicicleta - Páginas */
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
+/* Contato */
+@import "./contato/contato.css"
